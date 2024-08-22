@@ -1,24 +1,25 @@
 ---
-title: Compiler
-summary: Some interesting things when I study compiler construction
-date: 2024-08-18
+title: 🎉 Easily create your own simple yet highly customizable blog
+summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
+date: 2023-10-27
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  #caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 
 authors:
   - admin
 
 tags:
+  - Course Note
   - Academic
-  - Compiler
 
-draft: false
-
-#share: false
+share: false
 ---
+
+Suggested Textbook: Engineer a Compiler, Dragon book
+
 
 Welcome 👋
 
@@ -26,33 +27,60 @@ Welcome 👋
 
 ## Overview
 
+Portable, Optimization, Convenient layer between abstract higher level languange and machine(Productivity).
+Syntax check. Link. One language to another language. and more.
+
+Formal definition
+- Preprocessing
+- lexical analysis
+- parsing
+- semantic analysis
+- IR conversion(Intermidiate Representation)
+- code optimization
+- code generation
+
+Types:
+- traditional: high to low
+- source to source: rewriter
+- just-in-time(JIT): during the program execution(maybe interpreter?)
+- decompiler
+- cross compiler
+- binary recompiler: binary to binary
+
+Motivation:
+Enhance quality of program.
+Metrics of quality: Speed, Reliability, resilience, extensibility, Security, Energy efficiency, readability, memory foot print, code size
+
+
+Interpreter
+And compiler
+
+Answer
+1. Block codes(Interpreter) Always compiler
+2. Interpreter
+3. Compiler, 
+4. Interpreter(??)
+5. Both
+6. Compiler
+7. Compiler 
+8. Both
+9. Interpreter
+Two kind of compiler, before and in time
+
+
+
+
+
+
+
+
+
+
 1. The Hugo Blox website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
 2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
 3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
 
 [//]: # ([![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.]&#40;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png&#41;]&#40;https://hugoblox.com&#41;)
-
-## Interpreter Versus Compiler
-
-### Interpreter
-
-#### Pros:
-
-- 
-
-#### Cons:
-
-- 
-
-### Compiler
-
-#### Pros:
-
-- 
-
-#### Cons:
-
-- 
 
 ### Get Started
 
@@ -105,6 +133,6 @@ Hugo Blox and its templates come with **automatic day (light) and night (dark) m
 
 ## License
 
-Copyright 2024-present [Yuchao Su](https://yuchaosu.com).
+Copyright 2016-present [George Cushen](https://georgecushen.com).
 
 Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md) license.
