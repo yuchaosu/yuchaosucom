@@ -27,7 +27,7 @@ Welcome 👋
 
 ## Overview
 
-Portable, Optimization, Convenient layer between abstract higher level languange and machine(Productivity).
+Portable, Optimization, Convenient layer between abstract higher level language and machine(Productivity).
 Syntax check. Link. One language to another language. and more.
 
 Formal definition
@@ -67,11 +67,34 @@ Answer
 9. Interpreter
 Two kind of compiler, before and in time
 
+Java is different.
 
 
 
+## Stanford Compiler Course Interest Problems
+FORTRAN language has the word's first compiler. John Backus
+FORTRAN(Formula Translation) is used for scientific computing.
 
 
+Why are there so many programming languages?
+Each language has its own distinct domain to use. Different domain has different needs, and most of time, these needs are conflicting. 
+Scientific computing: Float point, arrays, parallelism. FORTRAN
+Business: persistance, report generation, data analysis SQL
+System programming: control of resources, real time constraints C/C++
+
+It is impossible to integrate all these things together.
+
+Why are there new programming languages?
+Programmer training is the dominant cost for a programming language.
+
+1. Widely-used languages are slow to change. C/C++
+2. Easy to start a language. Cna evolve quickly
+Tension between these two. Productivity or training cost.
+New domain may need new language. 
+
+What is a good programming language?
+
+There is no universally accepted metric for language design.
 
 
 
