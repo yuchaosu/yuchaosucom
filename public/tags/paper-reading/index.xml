@@ -7,7 +7,7 @@
     <description>Paper Reading</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 18 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Paper Reading</title>
       <link>http://localhost:1313/tags/paper-reading/</link>
     </image>
@@ -17,7 +17,7 @@
       <link>http://localhost:1313/post/diaq/</link>
       <pubDate>Sun, 18 Aug 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/diaq/</guid>
-      <description>&lt;h1 id=&#34;chundury-srikar-et-al-diaq-efficient-state-vector-quantum-simulation-arxiv-preprint-arxiv240501250-2024httpsarxivorgabs240501250&#34;&gt;&lt;a href=&#34;https://arxiv.org/abs/2405.01250&#34;&gt;Chundury, Srikar, et al. &amp;ldquo;DiaQ: Efficient State-Vector Quantum Simulation.&amp;rdquo; arXiv preprint arXiv:2405.01250 (2024).&lt;/a&gt;&lt;/h1&gt;
+      <description>&lt;h4 id=&#34;chundury-srikar-et-al-diaq-efficient-state-vector-quantum-simulation-arxiv-preprint-arxiv240501250-2024httpsarxivorgabs240501250&#34;&gt;&lt;a href=&#34;https://arxiv.org/abs/2405.01250&#34;&gt;Chundury, Srikar, et al. &amp;ldquo;DiaQ: Efficient State-Vector Quantum Simulation.&amp;rdquo; arXiv preprint arXiv:2405.01250 (2024).&lt;/a&gt;&lt;/h4&gt;
 
 
 
@@ -26,8 +26,14 @@
   &lt;div class=&#34;text-sm&#34;&gt;
   &lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;
+    &lt;li&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
     &lt;li&gt;&lt;a href=&#34;#overview&#34;&gt;Overview&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#interpreter-versus-compiler&#34;&gt;Interpreter Versus Compiler&lt;/a&gt;
+    &lt;li&gt;&lt;a href=&#34;#nisq&#34;&gt;NISQ&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#sv-simhttpsgithubcompnnlsv-sim&#34;&gt;&lt;a href=&#34;https://github.com/pnnl/SV-Sim&#34;&gt;SV-Sim&lt;/a&gt;&lt;/a&gt;
       &lt;ul&gt;
         &lt;li&gt;&lt;a href=&#34;#interpreter&#34;&gt;Interpreter&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a href=&#34;#compiler&#34;&gt;Compiler&lt;/a&gt;&lt;/li&gt;
@@ -55,7 +61,9 @@
 &lt;li&gt;The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong&gt;no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong&gt; and having &lt;strong&gt;flexibility to later add even deeper personalization with HTML and CSS&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2 id=&#34;interpreter-versus-compiler&#34;&gt;Interpreter Versus Compiler&lt;/h2&gt;
+&lt;h2 id=&#34;nisq&#34;&gt;NISQ&lt;/h2&gt;
+&lt;p&gt;Noisy Intermediate Scale Quantum (NISQ) computing is a term coined by John Preskill in 2018 which noted that current quantum computers at the time (and indeed still in 2023) are prone to considerable error rates and limited in size by the number of logical qubits (or even physical qubits) in the system.&lt;a href=&#34;https://thequantuminsider.com/2023/03/13/what-is-nisq-quantum-computing/&#34;&gt;The Quantum Insider&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sv-simhttpsgithubcompnnlsv-sim&#34;&gt;&lt;a href=&#34;https://github.com/pnnl/SV-Sim&#34;&gt;SV-Sim&lt;/a&gt;&lt;/h2&gt;
 &lt;h3 id=&#34;interpreter&#34;&gt;Interpreter&lt;/h3&gt;
 &lt;h4 id=&#34;pros&#34;&gt;Pros:&lt;/h4&gt;
 &lt;ul&gt;
