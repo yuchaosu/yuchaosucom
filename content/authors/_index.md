@@ -7,4 +7,4 @@ cascade:
     render: never
     list: always
 ---
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=58rq8wNREXdHKQG7o8yjdLynDFEYgVrVmNaqfjlv180&cl=ffffff&w=a"></script>
+<a href="https://mapmyvisitors.com/web/1bxd8"  title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=58rq8wNREXdHKQG7o8yjdLynDFEYgVrVmNaqfjlv180&cl=ffffff" /></a>
