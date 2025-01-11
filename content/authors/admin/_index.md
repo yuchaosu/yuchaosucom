@@ -186,5 +186,3 @@ languages:
 ## About Me
 
 My name is Yuchao Su, a Ph.D. student in Systems Laboratory at [North Carolina State University](https://www.ncsu.edu), advised by [Dr.Frank Mueller](https://arcb.csc.ncsu.edu/~mueller/). Before joining the NCSU, I was fortunate to work with [Prof. Yifan Sun](https://sarchlab.org/syifan) at [College of William & Mary](https://www.wm.edu/), [Prof. Quansheng Yang](https://cse.seu.edu.cn/carl/2019/1126/c26589a296964/page.htm) at [Southeast University](https://www.seu.edu.cn/).
-
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=58rq8wNREXdHKQG7o8yjdLynDFEYgVrVmNaqfjlv180&cl=ffffff&w=a"></script>
