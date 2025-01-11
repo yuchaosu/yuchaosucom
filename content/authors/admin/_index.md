@@ -57,11 +57,12 @@ education:
     institution: North Carolina State University
     date_start: 2024-08-19
     date_end: 2028-05-31
-    # summary: |
-    #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    # button:
-    #   text: 'Read Thesis'
-    #   url: 'https://example.com'
+    summary: |
+      GPA: 4.0/4.0
+
+      Courses included:
+      - Compiler Construction(Prof.Xipeng Shen)
+      - Parallel Algorithm(Prof.Jiajia Li)
   - area: MS Electronic & Computer Eng
     institution: Northeastern University(Boston, MA)
     date_start: 2021-09-03
@@ -70,9 +71,9 @@ education:
       GPA: 3.8/4.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Computer Architecture(Prof.David Kaeli)
+      - Artificial Intelligence
+      - Database Management
   - area: BEng Computer Science
     institution: Southeast University(南京，江苏)
     date_start: 2017-09-03
@@ -184,4 +185,6 @@ languages:
 
 ## About Me
 
-My name is Yuchao Su, a Ph.D. student at [North Carolina State University](https://www.ncsu.edu), advised by [Frank Mueller](https://arcb.csc.ncsu.edu/~mueller/). Before joining the NCSU, I was fortunate to work with [Prof. Yifan Sun](https://sarchlab.org/syifan) at [College of William & Mary](https://www.wm.edu/), [Prof. Quansheng Yang](https://cse.seu.edu.cn/carl/2019/1126/c26589a296964/page.htm) at [Southeast University](https://www.seu.edu.cn/).
+My name is Yuchao Su, a Ph.D. student in Systems Laboratory at [North Carolina State University](https://www.ncsu.edu), advised by [Dr.Frank Mueller](https://arcb.csc.ncsu.edu/~mueller/). Before joining the NCSU, I was fortunate to work with [Prof. Yifan Sun](https://sarchlab.org/syifan) at [College of William & Mary](https://www.wm.edu/), [Prof. Quansheng Yang](https://cse.seu.edu.cn/carl/2019/1126/c26589a296964/page.htm) at [Southeast University](https://www.seu.edu.cn/).
+
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=58rq8wNREXdHKQG7o8yjdLynDFEYgVrVmNaqfjlv180&cl=ffffff&w=a"></script>

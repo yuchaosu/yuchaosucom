@@ -7,3 +7,4 @@ cascade:
     render: never
     list: always
 ---
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=58rq8wNREXdHKQG7o8yjdLynDFEYgVrVmNaqfjlv180&cl=ffffff&w=a"></script>
